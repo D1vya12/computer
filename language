@@ -4,5 +4,6 @@ void main()
 {
   int a=12,b=13;
   printf(%d%d,a+b);
+  printf("Language");
 
 }
